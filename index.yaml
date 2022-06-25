@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   postgresql:
   - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2022-06-25T12:27:29.705777-04:00"
+    appVersion: 0.0.1
+    created: "2022-06-25T12:39:12.356273-04:00"
     description: A Helm chart for Kubernetes PostgreSQL for M1
-    digest: 51ec0c467998dc3838050e2e35ad4960800d2c4bf33686edf2ee33e77fca94db
+    digest: cf7c933de59568b8f6b39b1240487f606dcfc30b2f41641144bd7d2626fb43db
     name: postgresql
     type: application
     urls:
     - https://thenextceo.github.io/postgresql/postgresql-0.0.1.tgz
     version: 0.0.1
-generated: "2022-06-25T12:27:29.70508-04:00"
+generated: "2022-06-25T12:39:12.355614-04:00"
