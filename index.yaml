@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  postgresql:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-06-25T12:22:56.958607-04:00"
+    description: A Helm chart for Kubernetes PostgreSQL for M1
+    digest: 51ec0c467998dc3838050e2e35ad4960800d2c4bf33686edf2ee33e77fca94db
+    name: postgresql
+    type: application
+    urls:
+    - https://TheNextCEO.github.io/postgresql/postgresql-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-06-25T12:22:56.957921-04:00"
